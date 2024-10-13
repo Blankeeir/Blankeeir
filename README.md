@@ -1,48 +1,45 @@
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
+<p align="center"><a href="https://Blankeeir.github.io"><img width="80%" alt="Hello, I'm Siyi. I do Blockchain!" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-  WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
-  Please think twice before BLINDLY COPYING my profile readme.
-  Design your own that suit your needs and personality! Or well,
-  at least remember to change the name, project, shell, note.txt
-  etc!
--->
+<br />
 
-<pre>
- ~> <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:hedy.dev+gh@protonmail.com">email</a>.
-2. I use sourcehut (primarily) to host my repositories.
-   Most of them has github mirrors.
- 
- ~> <strong>ls socials</strong>
- Fediverse: <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
- ~> <strong>finger hedy</strong>
-Login: hedy                             Name: hedy
-Directory: /home/hedy                   Shell: /usr/bin/fish
-Project:
-  - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
-  - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
-  - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
-  - Drafting (b|gem|ph|sh)log posts - but not publishing...
-Plan:
-  Learning \o/
-</pre>
+**About me**
 
-[**octo ring**](https://octo-ring.com/)
-[[prev](https://octo-ring.com/p/hedyhli/prev)]  [[random](https://octo-ring.com/p/hedyhli/random)]  [[next](https://octo-ring.com/p/hedyhli/next)]
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-<!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
