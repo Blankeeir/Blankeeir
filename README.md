@@ -6,7 +6,7 @@ I'm a self-taught passionate blockchain & full-stack developer from China ~
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Blockchain developer at [Razorpay](http://razorpay.com/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
