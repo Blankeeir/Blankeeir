@@ -31,7 +31,7 @@ I'm a self-taught passionate blockchain & full-stack developer ~
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankeeir&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/blankeeir/blankeeir.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankeeir&repo=blankeeir.github.io&theme=buefy" />
 </a>
 
 <br />
