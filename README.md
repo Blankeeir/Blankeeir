@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate blockchain & full-stack developer from China ~
+I'm a self-taught passionate blockchain & full-stack developer ~
 
 **About me**
 
@@ -10,7 +10,7 @@ I'm a self-taught passionate blockchain & full-stack developer from China ~
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Solidity, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
@@ -27,19 +27,19 @@ I'm a self-taught passionate blockchain & full-stack developer from China ~
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/blankeeir/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=blankeeir&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/blankeeir/blankeeir.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/blankeeir">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/blankeeir">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
