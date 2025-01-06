@@ -6,7 +6,7 @@ I'm a self-taught passionate blockchain & full-stack developer ~
 
 **About me**
 
-- 💼 Blockchain developer at [Neo](https://neo.org/)
+- 💼 Blockchain developer at Emurgo (CEO Office Researcher), crypto trader at infrasingularity, BD at [Neo](https://neo.org/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
